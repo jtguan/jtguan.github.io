@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "官俊涛"
 description              : "Assistant Professor"
-repository               : "jtguan/acad-homepage.github.io"
+repository               : "jtguan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "官俊涛\\ -Guan Juntao"
+  name             : "官俊涛\n Guan Juntao"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "西安电子科技大学       Xidian University"
   location         : "HangZhou, China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID"
   email            : "guanjuntao@xidian.edu.cn"
-  #researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
