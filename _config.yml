@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "官俊涛"
+description              : "准聘副教授"
 description              : "Assistant Professor"
 repository               : "jtguan.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "官俊涛Guan Juntao"
-  name             : "官俊涛Guan Juntao"
+  name             : "官俊涛 Guan Juntao"
+  name             : "官俊涛 Guan Juntao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "西安电子科技大学       Xidian University"
+  bio              : "西安电子科技大学 Xidian University"
+  bio              : "西安电子科技大学 Xidian University"
   location         : "HangZhou, China"
   employer         :
   pubmed           : 
