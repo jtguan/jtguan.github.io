@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "官俊涛|GuanJuntao"
+  name             : "官俊涛"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "西安电子科技大学|Xidian University"
-  location         : "HangZhou, China"
-  employer         :
+  bio              : "西安电子科技大学"
+  location         : "杭州, 中国"
+  employer         : "杭州研究院 "
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e1STi8oAAAAJ"
   email            : "guanjuntao@xidian.edu.cn"
