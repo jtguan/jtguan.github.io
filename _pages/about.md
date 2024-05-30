@@ -33,7 +33,7 @@ redirect_from:
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**. 
 
 # 📝 Publications 
--[Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340),IEEE Transactions on Circuits and Systems for Video Technology
+- [Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340),IEEE Transactions on Circuits and Systems for Video Technology
 **Guan Juntao**, Lai Rui, Shaoqing Ren, Jian Sun
 
 
