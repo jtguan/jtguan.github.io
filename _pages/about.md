@@ -43,11 +43,11 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
----
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
----
+
+# 🎖 招生信息
+- 每年3-5名硕士研究生名额. 
+- 招生专业为电子信息-集成电路工程.
+
 
 # 📖 Educations
 - *2019.03 - 2022.12*, 西安电子科技大学. 微电子学院. 博士学位. 
