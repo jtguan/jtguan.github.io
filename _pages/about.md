@@ -23,10 +23,13 @@ redirect_from:
 - 智能图像信号处理器AI-ISP
 - 先进图像处理算法
 - 微型机器学习TinyML
+# 🎖 招生信息
+- 每年**3-5**名硕士研究生名额. 
+- 招生专业为**电子信息-集成电路工程**.
   
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学获得国家奖学金National Scholarship. 
-- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得国家奖学金National Scholarship. . 
+- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
+- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**. 
 
 # 📝 Publications 
 
@@ -44,22 +47,10 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 招生信息
-- 每年3-5名硕士研究生名额. 
-- 招生专业为电子信息-集成电路工程.
+
 
 
 # 📖 Educations
 - *2019.03 - 2022.12*, 西安电子科技大学. 微电子学院. 博士学位. 
 - *2016.09 - 2019.03*, 西安电子科技大学. 微电子学院. 硕士学位.
 - *2012.09 - 2016.07*, 哈尔滨理工大学.   计算机学院. 学士学位. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-  
----
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-# 💻 Cor
----
