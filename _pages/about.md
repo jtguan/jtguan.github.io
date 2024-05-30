@@ -33,9 +33,8 @@ redirect_from:
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**. 
 
 # 📝 Publications 
-- [Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340),IEEE Transactions on Circuits and Systems for Video Technology
-**Guan Juntao**, Lai Rui, Shaoqing Ren, Jian Sun
-
+- **Juntao Guan**, Rui Lai*, Yang Lu, Yangang Li, Huanan Li, Lichen Feng, Yintang Yang, Lin Gu. "[Memory-Efficient Deformable Convolution based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)", IEEE Transactions on Circuits and Systems for Video technology, Vol.32, Issue 11, pp.7346-7358, 2022.
+- **Juntao Guan**, Rui Lai*, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
 
 # 📖 Educations
 - *2019.03 - 2022.12*, 西安电子科技大学. 电子科学与技术. 博士学位. 
