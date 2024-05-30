@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 官俊涛，杭州研究院准聘副教授（集成电路研究所），西安电子科技大学工学博士。研究方向为主要研究方向为智能图像信号处理器AI-ISP、边缘神经网络处理器EdgeNPU，作为主要成员参与国家重点研发计划、国家自然科学基金、装备预研等科研项目。长期从事图像信号处理器设计、图像处理算法开发以及深度学习加速器等领域的研究工作，在面向图像处理的集成电路软-硬件协同设计方面取得了一系列的科研成果，具备算法-电路-架构协同设计以及芯片流片测试的经验。相关成果发表在国际权威杂志IEEE TCSVT、IEEE TNNLS、IEEE TCAS-II、IEEE GRSL、Neurocomputing中，授权国家发明专利11项。并担任IEEE TNNLS、IEEE TCSVT、IEEE GRSL、IEEE Photonics Journal等多个学术期刊的审稿人。\\
-主要研究方向为：\\
+# 💻 主要研究方向：
 -边缘神经网络处理器EdgeNPU\\
 -智能图像信号处理器AI-ISP\\
 -先进图像处理算法\\
@@ -43,20 +43,23 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+---
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
 # 📖 Educations
-- *2019.06 - 2022.12*, 西安电子科技大学. 微电子学院. 工学博士学位. 
-- *2019.06 - 2016.08*, 西安电子科技大学. 微电子学院. 硕士学位.
-- *2012.06 - 2016.08*, 哈尔滨理工大学. 计算机学院. 学士学位. 
+- *2019.03 - 2022.12*, 西安电子科技大学. 微电子学院. 博士学位. 
+- *2016.09 - 2019.03*, 西安电子科技大学. 微电子学院. 硕士学位.
+- *2012.09 - 2016.07*, 哈尔滨理工大学.   计算机学院. 学士学位. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+  
+---
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # 💻 Cor
+---
