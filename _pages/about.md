@@ -40,7 +40,8 @@ redirect_from:
 [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/9795340)
 
 **Guan Juntao**, Lai Rui, Shaoqing Ren, Jian Sun
-
+</div>
+</div>
 
 
 
