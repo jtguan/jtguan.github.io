@@ -37,8 +37,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/abstract/document/9795340)
-
+[Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)
+IEEE Transactions on Circuits and Systems for Video Technology
 **Guan Juntao**, Lai Rui, Shaoqing Ren, Jian Sun
 </div>
 </div>
