@@ -34,7 +34,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/300x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/200x200.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)
 IEEE Transactions on Circuits and Systems for Video Technology
