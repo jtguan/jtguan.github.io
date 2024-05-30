@@ -34,7 +34,10 @@ redirect_from:
 
 # 📝 Publications 
 - **Juntao Guan**, Rui Lai*, Yang Lu, Yangang Li, Huanan Li, Lichen Feng, Yintang Yang, Lin Gu. "[Memory-Efficient Deformable Convolution based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)", IEEE Transactions on Circuits and Systems for Video technology, Vol.32, Issue 11, pp.7346-7358, 2022.
-- **Juntao Guan**, Rui Lai*, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
+- **Juntao Guan**, Rui Lai*, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]()", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
+- **Juntao Guan**, Rui Lai*, Ai Xiong, Zesheng Liu, Lin Gu, "[Fixed Pattern Noise Reduction for Infrared Images Based on Cascade Residual Attention CNN]()", Neurocomputing, Vol.377, pp.301-313, 2020.
+- Zesheng Liu, Rui Lai*, **Juntao Guan**, "[Spatial and Transform Domain CNN for SAR Image Despeckling]()", IEEE Geoscience and Remote Sensing Letters, Vol.19,  pp. 4002005, 2022.  (ESI High Cited Paper)
+- **Juntao Guan**, Rui Lai*, Ai Xiong, "[Wavelet Deep Neural Network for Stripe Noise Removal]()", IEEE ACCESS, Vol.19, pp.44544-44554, 2019.
 
 # 📖 Educations
 - *2019.03 - 2022.12*, 西安电子科技大学. 电子科学与技术. 博士学位. 
