@@ -34,15 +34,11 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div></div></div>
 <div class='paper-box-text' markdown="1">
 [Memory-Efficient Deformable Convolution Based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)
 IEEE Transactions on Circuits and Systems for Video Technology
 **Guan Juntao**, Lai Rui, Shaoqing Ren, Jian Sun
 </div>
-</div>
-
-
 
 # 📖 Educations
 - *2019.03 - 2022.12*, 西安电子科技大学. 电子科学与技术. 博士学位. 
