@@ -23,9 +23,10 @@ redirect_from:
   智能图像信号处理器AI-ISP
   先进图像处理算法
   微型机器学习TinyML
+  
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生江学堃同学获得国家奖学金National Scholarship. 
+- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生郭庆辉同学获得国家奖学金National Scholarship. . 
 
 # 📝 Publications 
 
