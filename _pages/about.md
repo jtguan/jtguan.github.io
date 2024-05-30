@@ -30,7 +30,8 @@ redirect_from:
   
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
-- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**. 
+- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
+- *2023.8*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
 # 📝 Publications 
 - **Juntao Guan**, Gufeng Liu, Rui Lai*, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
