@@ -44,12 +44,6 @@ redirect_from:
 - Zesheng Liu, Rui Lai*, **Juntao Guan**, "[Spatial and Transform Domain CNN for SAR Image Despeckling]()", IEEE Geoscience and Remote Sensing Letters, Vol.19,  pp. 4002005, 2022.  (ESI High Cited Paper)
 - **Juntao Guan**, Rui Lai*, Ai Xiong, "[Wavelet Deep Neural Network for Stripe Noise Removal]()", IEEE ACCESS, Vol.19, pp.44544-44554, 2019.
 
-# 📖 Educations
-- *2019.03 - 2022.12*, 西安电子科技大学. 电子科学与技术. 博士学位. 
-- *2016.09 - 2019.03*, 西安电子科技大学. 微电子学与固体电子学. 硕士学位.
-- *2012.09 - 2016.07*, 哈尔滨理工大学.   集成电路设计与集成系统. 学士学位.
-
-
 # 📚 Academic Research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,3 +58,8 @@ redirect_from:
 在硬件资源严格受限的物联网边缘侧微处理器和专用芯片上，EdgeML技术正通过高效的算法和硬件电路设计，以应对传统机器学习惊人计算开销和存储空间需求带来的巨大挑战，实现在边缘侧设备的部署。
 </div>
 </div>
+
+# 📖 Educations
+- *2019.03 - 2022.12*, 西安电子科技大学. 电子科学与技术. 博士学位. 
+- *2016.09 - 2019.03*, 西安电子科技大学. 微电子学与固体电子学. 硕士学位.
+- *2012.09 - 2016.07*, 哈尔滨理工大学.   集成电路设计与集成系统. 学士学位.
