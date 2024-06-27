@@ -54,20 +54,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech] \\
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FastSpeech: Fast, Robust and Controllable Text to Speech] \\
+在硬件资源严格受限的物联网边缘侧微处理器和专用芯片上，EdgeML技术正通过高效的算法和硬件电路设计，以应对传统机器学习惊人计算开销和存储空间需求带来的巨大挑战，实现在边缘侧设备的部署。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">微型机器学习算法</div><img src='images/visual_effect.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech] \\
+面向深度学习方法在进行像素级处理时的巨大计算量和存储量所造成硬件部署瓶颈，研究多任务融合的端对端轻量化算法，并设计适配的管道化专用加速引擎以实现高速图像信号处理的AISP芯片。
 </div>
 </div>
