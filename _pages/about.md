@@ -53,14 +53,14 @@ redirect_from:
 # 📚 Academic Research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+针对超低功耗应用场景，提出了“无外存计算”的感知计算框架，并通过算法优化以充分压缩模型尺寸，通过片内访存实现整个模型的计算，从而彻底消除由片外访存带来的巨大功耗和延迟，提升系统能效。
 
-在硬件资源严格受限的物联网边缘侧微处理器和专用芯片上，EdgeML技术正通过高效的算法和硬件电路设计，以应对传统机器学习惊人计算开销和存储空间需求带来的巨大挑战，实现在边缘侧设备的部署。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">微型机器学习算法</div><img src='images/visual_effect.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-面向深度学习方法在进行像素级处理时的巨大计算量和存储量所造成硬件部署瓶颈，研究多任务融合的端对端轻量化算法，并设计适配的管道化专用加速引擎以实现高速图像信号处理的AISP芯片。
+在硬件资源严格受限的物联网边缘侧微处理器和专用芯片上，EdgeML技术正通过高效的算法和硬件电路设计，以应对传统机器学习惊人计算开销和存储空间需求带来的巨大挑战，实现在边缘侧设备的部署。
 </div>
 </div>
