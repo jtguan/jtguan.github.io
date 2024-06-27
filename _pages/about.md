@@ -49,7 +49,7 @@ redirect_from:
 - *2016.09 - 2019.03*, 西安电子科技大学. 微电子学与固体电子学. 硕士学位.
 - *2012.09 - 2016.07*, 哈尔滨理工大学.   集成电路设计与集成系统. 学士学位.
 - 
-# 📖 Educations
+# 📚 Academic Research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
