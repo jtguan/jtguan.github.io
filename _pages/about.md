@@ -30,15 +30,20 @@ redirect_from:
 - 欢迎各位同学报考！
   
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学再次获得**国家奖学金National Scholarship**. 
+- *2023.08*: &nbsp;🎉🎉 恭喜2024级研究生**郝卫东、崔金文、刘馨珂**同学获得全国大学生嵌入式芯片与系统设计大赛**二等奖**. 
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
 - *2023.08*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
 # 📝 Publications 
-- **Juntao Guan**, Gufeng Liu, Rui Lai*, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+- **Juntao Guan**, Qinghui Guo, Huanan Li, Huanan~Li,	Rui Lai，Ruixue~Ding, Libo Qian, Zhangming Zhu, "[PIMSR: An Energy-Efficient Processing-in-Memory Accelerator for 60 FPS 4K Super-Resolution]()", IEEE Transactions on Neural Networks and Learning Systems, 2025.
+- Rui Fan, Weidong Hao, **Juntao Guan**, Rui Lai, Zhangming Zhu. "[EventPillars: Pillar-based Efﬁcient Representations for Event Data]()", 2025 Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI)
+- Huanan Li, **Juntao Guan**, Rui Lai, Sijun Ma, Lin Gu4, Zhangming Zhu. "[TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge]()", 2024 The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS)
+- **Juntao Guan**, Gufeng Liu, Rui Lai, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
 - Huanan Li, Rui Lai*, Shicheng Jia, **Juntao Guan**. "[An Energy-Efficient Look-up Table Framework for Super Resolution on FPGA]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
-- **Juntao Guan**, Rui Lai*, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]()", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
-- **Juntao Guan**, Rui Lai*, Yang Lu, Yangang Li, Huanan Li, Lichen Feng, Yintang Yang, Lin Gu. "[Memory-Efficient Deformable Convolution based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)", IEEE Transactions on Circuits and Systems for Video technology, Vol.32, Issue 11, pp.7346-7358, 2022.
+- **Juntao Guan**, Rui Lai, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]()", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
+- **Juntao Guan**, Rui Lai, Yang Lu, Yangang Li, Huanan Li, Lichen Feng, Yintang Yang, Lin Gu. "[Memory-Efficient Deformable Convolution based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)", IEEE Transactions on Circuits and Systems for Video technology, Vol.32, Issue 11, pp.7346-7358, 2022.
 - Dong Wang, Rui Lai*, **Juntao Guan**, "[Target Attention Deep Neural Network for Infrared Image Enhancement]()", Infrared Physics and Technology, Vol.115, pp.103690, 2021.
 - **Juntao Guan**, Rui Lai*, Ai Xiong, Zesheng Liu, Lin Gu, "[Fixed Pattern Noise Reduction for Infrared Images Based on Cascade Residual Attention CNN]()", Neurocomputing, Vol.377, pp.301-313, 2020.
 - Zesheng Liu, Rui Lai*, **Juntao Guan**, "[Spatial and Transform Domain CNN for SAR Image Despeckling]()", IEEE Geoscience and Remote Sensing Letters, Vol.19,  pp. 4002005, 2022.  (ESI High Cited Paper)
