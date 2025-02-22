@@ -38,10 +38,10 @@ redirect_from:
 
 # 📝 Publications 
 - **Juntao Guan**, Qinghui Guo, Huanan Li, Huanan~Li,	Rui Lai，Ruixue~Ding, Libo Qian, Zhangming Zhu, "[PIMSR: An Energy-Efficient Processing-in-Memory Accelerator for 60 FPS 4K Super-Resolution]()", IEEE Transactions on Neural Networks and Learning Systems, 2025.
-- Rui Fan, Weidong Hao, **Juntao Guan**, Rui Lai, Zhangming Zhu. "[EventPillars: Pillar-based Efﬁcient Representations for Event Data]()", 2025 Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI)
-- Huanan Li, **Juntao Guan**, Rui Lai, Sijun Ma, Lin Gu4, Zhangming Zhu. "[TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge]()", 2024 The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS)
-- **Juntao Guan**, Gufeng Liu, Rui Lai, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
-- Huanan Li, Rui Lai*, Shicheng Jia, **Juntao Guan**. "[An Energy-Efficient Look-up Table Framework for Super Resolution on FPGA]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+- Rui Fan, Weidong Hao, **Juntao Guan**, Rui Lai, Zhangming Zhu. "[EventPillars: Pillar-based Efﬁcient Representations for Event Data]()", 2025 Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI).
+- Huanan Li, **Juntao Guan**, Rui Lai, Sijun Ma, Lin Gu4, Zhangming Zhu. "[TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge]()", 2024 The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS).
+- **Juntao Guan**, Gufeng Liu, Rui Lai, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS).
+- Huanan Li, Rui Lai*, Shicheng Jia, **Juntao Guan**. "[An Energy-Efficient Look-up Table Framework for Super Resolution on FPGA]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS).
 - **Juntao Guan**, Rui Lai, Huanan Li, Yintang Yang, Lin Gu, "[DnRCNN: Deep Recurrent Convolutional Neural Network for HSI Destriping]()", IEEE Transactions on Neural Networks and Learning Systems, Vol.34, Issue 7, pp.3255-3268, 2023.
 - **Juntao Guan**, Rui Lai, Yang Lu, Yangang Li, Huanan Li, Lichen Feng, Yintang Yang, Lin Gu. "[Memory-Efficient Deformable Convolution based Joint Denoising and Demosaicing for UHD Images](https://ieeexplore.ieee.org/abstract/document/9795340)", IEEE Transactions on Circuits and Systems for Video technology, Vol.32, Issue 11, pp.7346-7358, 2022.
 - Dong Wang, Rui Lai*, **Juntao Guan**, "[Target Attention Deep Neural Network for Infrared Image Enhancement]()", Infrared Physics and Technology, Vol.115, pp.103690, 2021.
