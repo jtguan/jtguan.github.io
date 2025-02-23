@@ -37,7 +37,7 @@ redirect_from:
 - *2023.08*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
 # 📝 Publications 
-- **Juntao Guan**, Qinghui Guo, Huanan Li, Huanan Li,	Rui Lai，Ruixue Ding, Libo Qian, Zhangming Zhu, "[PIMSR: An Energy-Efficient Processing-in-Memory Accelerator for 60 FPS 4K Super-Resolution]()", IEEE Transactions on Neural Networks and Learning Systems, 2025.
+- **Juntao Guan**, Qinghui Guo, Huanan Li, Huanan Li,	Rui Lai，Ruixue Ding, Libo Qian, Zhangming Zhu, "[PIMSR: An Energy-Efficient Processing-in-Memory Accelerator for 60 FPS 4K Super-Resolution]()", IEEE Transactions On Circuits and Systems Part II: Express Briefs, 2025.
 - Rui Fan, Weidong Hao, **Juntao Guan**, Rui Lai, Zhangming Zhu. "[EventPillars: Pillar-based Efﬁcient Representations for Event Data]()", 2025 Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI).
 - Huanan Li, **Juntao Guan**, Rui Lai, Sijun Ma, Lin Gu4, Zhangming Zhu. "[TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge]()", 2024 The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS).
 - **Juntao Guan**, Gufeng Liu, Rui Lai, Fanhong Zeng. "[Microarchitecture Aware NAS for TinyML Devices]()", 2024 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS).
