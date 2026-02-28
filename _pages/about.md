@@ -36,7 +36,9 @@ redirect_from:
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
 - *2023.08*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
-# 📝 Publications 
+- Rui Fan, Weidong Hao, Juntao Guan*, Lai Rui*, Tong Wu, Fanhong Zeng, Lin Gu, "[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition]()",  2026 IEEE Conference on Computer Vision and Pattern Recognition(CVPR).
+- Fanhong Zeng, Chao Li, Runhan Li, Juntao Guan*, Rui Lai*, Zhangming Zhu, "[Neural Quantization-Aware Piecewise Linear Approximation for Nonlinear Functions on FPGA]()", IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
+- Fanhong Zeng, Huanan Li, Juntao Guan*, Rui Fan, Tong Wu, Xilong Wang, Rui Lai*, "[An Efficient Hybrid Vision Transformer for TinyML Applications]()", 2025 IEEE/CVF International Conference on Computer Vision(ICCV).
 - **Juntao Guan**, Qinghui Guo, Huanan Li, Huanan Li,	Rui Lai，Ruixue Ding, Libo Qian, Zhangming Zhu, "[PIMSR: An Energy-Efficient Processing-in-Memory Accelerator for 60 FPS 4K Super-Resolution]()", IEEE Transactions On Circuits and Systems Part II: Express Briefs, 2025.
 - Rui Fan, Weidong Hao, **Juntao Guan**, Rui Lai, Zhangming Zhu. "[EventPillars: Pillar-based Efﬁcient Representations for Event Data]()", 2025 Thirty-Ninth AAAI Conference on Artificial Intelligence(AAAI).
 - Huanan Li, **Juntao Guan**, Rui Lai, Sijun Ma, Lin Gu4, Zhangming Zhu. "[TinyLUT: Tiny Look-Up Table for Efficient Image Restoration at the Edge]()", 2024 The Thirty-Eighth Annual Conference on Neural Information Processing Systems(NeurIPS).
