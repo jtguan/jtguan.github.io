@@ -36,6 +36,7 @@ redirect_from:
 - *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
 - *2023.08*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
+- Rui Fan, Huanan Li, Weidong Hao, Juntao Guan*, Lai Rui*, "[EGTM: Event-guided Efficient Video Turbulence Mitigation for Static Scene Restoration]()",  2026 IEEE International Conference on Multimedia and Expo(ICME).
 - Rui Fan, Weidong Hao, Juntao Guan*, Lai Rui*, Tong Wu, Fanhong Zeng, Lin Gu, "[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition]()",  2026 IEEE Conference on Computer Vision and Pattern Recognition(CVPR).
 - Fanhong Zeng, Chao Li, Runhan Li, Juntao Guan*, Rui Lai*, Zhangming Zhu, "[Neural Quantization-Aware Piecewise Linear Approximation for Nonlinear Functions on FPGA]()", IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
 - Fanhong Zeng, Huanan Li, Juntao Guan*, Rui Fan, Tong Wu, Xilong Wang, Rui Lai*, "[An Efficient Hybrid Vision Transformer for TinyML Applications]()", 2025 IEEE/CVF International Conference on Computer Vision(ICCV).
