@@ -30,11 +30,12 @@ redirect_from:
 - 欢迎各位同学报考！
   
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学再次获得**国家奖学金National Scholarship**. 
-- *2024.08*: &nbsp;🎉🎉 恭喜2024级研究生**郝卫东、崔金文、刘馨珂**同学获得全国大学生嵌入式芯片与系统设计大赛**二等奖**. 
-- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
-- *2023.10*: &nbsp;🎉🎉 恭喜2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
-- *2023.08*: &nbsp;🎉🎉 恭喜2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
+- *2025.08*: &nbsp;🎉🎉 研究生**郝未冬、刘立洋、汪亚洲**同学获得全国大学生集成电路创新创业大赛**二等奖**. . 
+- *2024.10*: &nbsp;🎉🎉 2022级研究生**江学堃**同学再次获得**国家奖学金National Scholarship**. 
+- *2024.08*: &nbsp;🎉🎉 2024级研究生**郝卫东、崔金文、刘馨珂**同学获得全国大学生嵌入式芯片与系统设计大赛**二等奖**. 
+- *2023.10*: &nbsp;🎉🎉 2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
+- *2023.10*: &nbsp;🎉🎉 2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
+- *2023.08*: &nbsp;🎉🎉 2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
 
 - Rui Fan, Huanan Li, Weidong Hao, Juntao Guan*, Lai Rui*, "[EGTM: Event-guided Efficient Video Turbulence Mitigation for Static Scene Restoration]()",  2026 IEEE International Conference on Multimedia and Expo(ICME).
 - Rui Fan, Weidong Hao, Juntao Guan*, Lai Rui*, Tong Wu, Fanhong Zeng, Lin Gu, "[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition]()",  2026 IEEE Conference on Computer Vision and Pattern Recognition(CVPR).
