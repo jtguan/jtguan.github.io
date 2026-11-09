@@ -35,8 +35,9 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 2024级研究生**郝卫东、崔金文、刘馨珂**同学获得全国大学生嵌入式芯片与系统设计大赛**二等奖**. 
 - *2023.10*: &nbsp;🎉🎉 2022级研究生**江学堃**同学获得**国家奖学金National Scholarship**. 
 - *2023.10*: &nbsp;🎉🎉 2022级研究生**郭庆辉**同学获得**国家奖学金National Scholarship**.
-- *2023.08*: &nbsp;🎉🎉 2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**. 
-
+- *2023.08*: &nbsp;🎉🎉 2022级研究生**江学堃、郭庆辉、方舒宁**同学获得全国大学生集成电路创新创业大赛**一等奖**.
+- Rui Lai, Fanhong Zeng, Sijun Ma, Juntao Guan, Lin Gu, Ruixue Ding, Zhangming Zhu. "[A Hardware-Efficient Large-Kernel Convolution-Based Super-Resolution Accelerator]()", IEEE Transactions on Circuits and Systems--I: Regular Papers, DOI: 10.1109/TCSI.2026.3732539, 2026.
+- T. Wu, J. Zhang, J. Guan, Rui Lai, et al., "[Slim-DETR: Real-time Tiny Object Detection with Efficient Interaction and Gaussian Query]()",  2026 European Conference on Computer Vision (ECCV).
 - Rui Fan, Huanan Li, Weidong Hao, Juntao Guan*, Lai Rui*, "[EGTM: Event-guided Efficient Video Turbulence Mitigation for Static Scene Restoration]()",  2026 IEEE International Conference on Multimedia and Expo(ICME).
 - Rui Fan, Weidong Hao, Juntao Guan*, Lai Rui*, Tong Wu, Fanhong Zeng, Lin Gu, "[SMV-EAR: Bring Spatiotemporal Multi-View Representation Learning into Efficient Event-Based Action Recognition]()",  2026 IEEE Conference on Computer Vision and Pattern Recognition(CVPR).
 - Fanhong Zeng, Chao Li, Runhan Li, Juntao Guan*, Rui Lai*, Zhangming Zhu, "[Neural Quantization-Aware Piecewise Linear Approximation for Nonlinear Functions on FPGA]()", IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
