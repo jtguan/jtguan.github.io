@@ -59,6 +59,7 @@ redirect_from:
 - Zesheng Liu, Rui Lai*, **Juntao Guan**, "[Spatial and Transform Domain CNN for SAR Image Despeckling]()", IEEE Geoscience and Remote Sensing Letters, Vol.19,  pp. 4002005, 2022.  (ESI High Cited Paper)
 - **Juntao Guan**, Rui Lai*, Ai Xiong, "[Wavelet Deep Neural Network for Stripe Noise Removal]()", IEEE ACCESS, Vol.19, pp.44544-44554, 2019.
 
+<span class='anchor' id='academic-research'></span>
 # 📚 Academic Research
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">边缘神经网络处理器</div><img src='images/TinyNPU_Demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
